@@ -1,4 +1,4 @@
-const siwe = require('siwe');
+import siwe from 'siwe';
 
 const domain = "localhost";
 const origin = "https://localhost/login";
